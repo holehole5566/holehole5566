@@ -1,8 +1,7 @@
 ### <div align="center">Hole Chen</div>  
   
+<div align="center"> Senior PTTer | Master Student | Software Engineer</div>  
 
-- Senior PTTer | Master Student | Software Engineer  
-  
 
 <br/>  
 
@@ -17,8 +16,3 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=holehole5566&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
