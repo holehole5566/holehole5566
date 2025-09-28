@@ -3,16 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 18 September 2025 - To: 25 September 2025
+From: 20 September 2025 - To: 27 September 2025
 
-Total Time: 37 mins
+Total Time: 1 hr 12 mins
 
-Python       29 mins         ███████████████████▓░░░░░   78.97 %
-CSV          3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
-SSH Config   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
-Markdown     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-Java         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Python     1 hr 6 mins     ███████████████████████░░   92.58 %
+CSV        3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
