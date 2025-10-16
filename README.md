@@ -3,13 +3,16 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 07 October 2025 - To: 14 October 2025
+From: 08 October 2025 - To: 15 October 2025
 
-Total Time: 33 mins
+Total Time: 44 mins
 
-Python            1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
-Bash              0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+SQL               6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
+Git Config        4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
+Python            1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+Bash              0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+CSV               0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
