@@ -3,16 +3,19 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 08 October 2025 - To: 15 October 2025
+From: 09 October 2025 - To: 16 October 2025
 
-Total Time: 44 mins
+Total Time: 2 hrs 40 mins
 
-SQL               6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
-Git Config        4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
-Python            1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
-Bash              0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-CSV               0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Java              1 hr 4 mins     ██████████░░░░░░░░░░░░░░░   39.85 %
+XML               19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
+Python            13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
+Markdown          11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
+SQL               6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+Bash              5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+Git Config        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+CSV               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
