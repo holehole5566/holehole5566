@@ -3,15 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 17 October 2025 - To: 24 October 2025
+From: 18 October 2025 - To: 25 October 2025
 
-Total Time: 1 hr 43 mins
+Total Time: 24 mins
 
-Java       1 hr            ██████████████▓░░░░░░░░░░   58.81 %
-Python     27 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.20 %
-Bash       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-XML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Python   24 mins         ████████████████████████▓   98.84 %
+Java     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
 
 <!--END_SECTION:waka-->
