@@ -3,14 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 04 November 2025 - To: 11 November 2025
+From: 05 November 2025 - To: 12 November 2025
 
-Total Time: 3 hrs 6 mins
+Total Time: 1 hr 5 mins
 
-Java              1 hr 23 mins    ██████████▒░░░░░░░░░░░░░░   41.43 %
-Python            49 mins         ██████░░░░░░░░░░░░░░░░░░░   24.60 %
-Java Properties   37 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.66 %
-Other             15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
+Python   49 mins         ██████████████████▓░░░░░░   75.28 %
+Bash     14 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.30 %
+Java     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
 ```
 
 <!--END_SECTION:waka-->
