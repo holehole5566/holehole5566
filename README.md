@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 12 November 2025 - To: 19 November 2025
+From: 13 November 2025 - To: 20 November 2025
 
-Total Time: 2 hrs 40 mins
+Total Time: 1 hr 43 mins
 
-Python   2 hrs 37 mins   ██████████████████████▓░░   91.19 %
-Other    12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
+Python   1 hr 43 mins    ██████████████████████▒░░   89.22 %
+Other    12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
 ```
 
 <!--END_SECTION:waka-->
