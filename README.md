@@ -3,16 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 01 December 2025 - To: 08 December 2025
+From: 02 December 2025 - To: 09 December 2025
 
-Total Time: 1 hr 38 mins
+Total Time: 1 hr 17 mins
 
-Python                     1 hr 10 mins    █████████████████▓░░░░░░░   71.26 %
-CSV                        17 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.22 %
-SSH Config                 4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-Bash                       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-Nginx configuration file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-Other                      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Python            1 hr 10 mins    ██████████████████████▓░░   90.58 %
+CSV               4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+Bash              2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Java              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
