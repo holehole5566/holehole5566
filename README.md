@@ -3,11 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 10 December 2025 - To: 17 December 2025
+From: 11 December 2025 - To: 18 December 2025
 
-Total Time: 6 mins
+Total Time: 1 hr 11 mins
 
-Other    25 mins         ████████████████████░░░░░   80.60 %
+Java     43 mins         ███████████▒░░░░░░░░░░░░░   44.88 %
+Other    25 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.58 %
 ```
 
 <!--END_SECTION:waka-->
