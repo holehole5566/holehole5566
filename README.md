@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 16 December 2025 - To: 23 December 2025
+From: 17 December 2025 - To: 24 December 2025
 
-Total Time: 2 hrs 25 mins
+Total Time: 3 hrs 8 mins
 
-Python   1 hr 14 mins    ████████████▓░░░░░░░░░░░░   50.82 %
-Java     45 mins         ███████▓░░░░░░░░░░░░░░░░░   31.26 %
-CSV      16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
-Bash     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-Other    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Python       1 hr 54 mins    ███████████████░░░░░░░░░░   60.19 %
+Java         45 mins         ██████░░░░░░░░░░░░░░░░░░░   24.12 %
+CSV          16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
+Bash         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
