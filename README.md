@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 12 January 2026 - To: 19 January 2026
+From: 13 January 2026 - To: 20 January 2026
 
 Total Time: 4 hrs 9 mins
 
 Markdown   32 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
-CSV        21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
+CSV        21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
 Java       16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
 XML        11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
 Python     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
