@@ -3,11 +3,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 28 January 2026 - To: 04 February 2026
+From: 29 January 2026 - To: 05 February 2026
 
-Total Time: 3 hrs 26 mins
+Total Time: 4 hrs 2 mins
 
-Other                      44 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.61 %
+Markdown                   59 mins         ██████░░░░░░░░░░░░░░░░░░░   24.26 %
+Python                     50 mins         █████░░░░░░░░░░░░░░░░░░░░   20.57 %
+CSV                        31 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 %
+Batchfile                  20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+Java                       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+Text                       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+XML                        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+JavaScript                 2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->
