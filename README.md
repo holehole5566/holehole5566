@@ -3,18 +3,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 29 January 2026 - To: 05 February 2026
+From: 30 January 2026 - To: 06 February 2026
 
-Total Time: 4 hrs 2 mins
+Total Time: 3 hrs 50 mins
 
-Markdown                   59 mins         ██████░░░░░░░░░░░░░░░░░░░   24.26 %
-Python                     50 mins         █████░░░░░░░░░░░░░░░░░░░░   20.57 %
-CSV                        31 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 %
-Batchfile                  20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
-Java                       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-Text                       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-XML                        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-JavaScript                 2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Markdown     59 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.56 %
+Python       50 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.67 %
+CSV          29 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
+Batchfile    20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
+Java         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+Text         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+XML          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
