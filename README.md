@@ -3,11 +3,16 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 09 February 2026 - To: 16 February 2026
+From: 10 February 2026 - To: 17 February 2026
 
-Total Time: 0 secs
+Total Time: 2 hrs 51 mins
 
-No activity tracked
+Markdown     1 hr 59 mins          █████████████████▓░░░░░░░   70.00 %
+Python       38 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.19 %
+SSH Config   11 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
+Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Docker       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
