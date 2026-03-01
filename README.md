@@ -3,13 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 20 February 2026 - To: 27 February 2026
+From: 21 February 2026 - To: 28 February 2026
 
-Total Time: 13 hrs 32 mins
+Total Time: 10 hrs 47 mins
 
-Markdown                   2 hrs 49 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.03 %
-Bash                       2 hrs 13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 %
-Other                      2 hrs 5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 %
+Other                      1 hr 50 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.63 %
 ```
 
 <!--END_SECTION:waka-->
