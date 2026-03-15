@@ -3,15 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 06 March 2026 - To: 13 March 2026
+From: 07 March 2026 - To: 14 March 2026
 
-Total Time: 12 hrs 52 mins
+Total Time: 15 hrs 14 mins
 
-Markdown                   4 hrs 15 mins         ████████░░░░░░░░░░░░░░░░░   31.62 %
-Python                     2 hrs 52 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.39 %
-CSV                        1 hr 47 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
-TypeScript                 39 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-Other                      34 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+Markdown                   5 hrs 54 mins         █████████▒░░░░░░░░░░░░░░░   36.89 %
+Python                     3 hrs 19 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.76 %
+CSV                        1 hr 47 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
+Other                      46 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
 ```
 
 <!--END_SECTION:waka-->
