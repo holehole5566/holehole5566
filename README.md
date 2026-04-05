@@ -3,19 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 27 March 2026 - To: 03 April 2026
+From: 28 March 2026 - To: 04 April 2026
 
-Total Time: 5 hrs 11 mins
+Total Time: 3 hrs 8 mins
 
-Markdown                   2 hrs 33 mins         ████████████▒░░░░░░░░░░░░   48.92 %
-Bash                       46 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 %
-Dart                       32 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
-HTML                       29 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
-JavaScript                 9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-Python                     4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-Docker                     4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-Go                         4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-Java Properties            3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Markdown      1 hr 9 mins           ████████▒░░░░░░░░░░░░░░░░   33.75 %
+Dart          32 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.79 %
+Bash          32 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
+Other         17 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
 ```
 
 <!--END_SECTION:waka-->
