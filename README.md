@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 09 May 2026 - To: 16 May 2026
+From: 10 May 2026 - To: 17 May 2026
 
-Total Time: 9 hrs 49 mins
+Total Time: 7 hrs 53 mins
 
-Text         4 hrs 46 mins         █████████▓░░░░░░░░░░░░░░░   38.09 %
-Other        2 hrs 42 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.63 %
+Text         3 hrs 6 mins          ███████▒░░░░░░░░░░░░░░░░░   29.64 %
+Other        2 hrs 36 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.83 %
 ```
 
 <!--END_SECTION:waka-->
