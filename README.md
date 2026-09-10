@@ -3,13 +3,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 01 September 2026 - To: 08 September 2026
+From: 02 September 2026 - To: 09 September 2026
 
-Total Time: 48 mins
+Total Time: 2 hrs 58 mins
 
-Java Properties   29 mins               ██████████████░░░░░░░░░░░   56.64 %
-Markdown          10 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.33 %
-Other             2 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
+Markdown          1 hr 9 mins           █████████▒░░░░░░░░░░░░░░░   37.51 %
+Java Properties   29 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.75 %
+Image (png)       26 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 %
+HTML              25 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.95 %
+TypeScript        6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+Bash              6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+Other             5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
 ```
 
 <!--END_SECTION:waka-->
