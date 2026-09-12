@@ -3,17 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 03 September 2026 - To: 10 September 2026
+From: 04 September 2026 - To: 11 September 2026
 
-Total Time: 13 hrs 22 mins
+Total Time: 9 hrs 21 mins
 
-Markdown          3 hrs 49 mins         ███████░░░░░░░░░░░░░░░░░░   27.36 %
-HTML              1 hr 45 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
-Bash              1 hr 19 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
-Image (png)       1 hr 12 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
-Go                1 hr 4 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
-Dart              38 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-Other             36 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+Markdown       3 hrs 53 mins         ██████████░░░░░░░░░░░░░░░   39.62 %
+HTML           1 hr 41 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.23 %
+Image (png)    58 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
+Go             43 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+Other          29 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
 ```
 
 <!--END_SECTION:waka-->
