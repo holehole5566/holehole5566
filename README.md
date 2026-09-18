@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 09 September 2026 - To: 16 September 2026
+From: 10 September 2026 - To: 17 September 2026
 
-Total Time: 11 hrs 45 mins
+Total Time: 12 hrs 30 mins
 
-Markdown                   5 hrs 45 mins         ██████████▒░░░░░░░░░░░░░░   41.58 %
-Other                      2 hrs 5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
+Markdown                   5 hrs 49 mins         ██████████░░░░░░░░░░░░░░░   39.47 %
+Other                      2 hrs 14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.20 %
 ```
 
 <!--END_SECTION:waka-->
