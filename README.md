@@ -3,15 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 13 September 2026 - To: 20 September 2026
+From: 14 September 2026 - To: 21 September 2026
 
-Total Time: 16 hrs 54 mins
+Total Time: 14 hrs 9 mins
 
-Markdown                   8 hrs 18 mins         ███████████▒░░░░░░░░░░░░░   45.70 %
-Dart                       2 hrs 40 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
-Go                         2 hrs 21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
-GDScript3                  1 hr 20 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
-Other                      1 hr 17 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+Markdown                   7 hrs 3 mins          ███████████▓░░░░░░░░░░░░░   47.10 %
+Dart                       3 hrs 11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.27 %
+Go                         2 hrs 2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
+Other                      49 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
 ```
 
 <!--END_SECTION:waka-->
