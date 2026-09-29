@@ -3,15 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 20 September 2026 - To: 27 September 2026
+From: 21 September 2026 - To: 28 September 2026
 
-Total Time: 15 hrs 28 mins
+Total Time: 14 hrs 13 mins
 
-Markdown                   9 hrs 25 mins         ██████████████▓░░░░░░░░░░   59.23 %
-Python                     2 hrs 17 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.40 %
-Dart                       45 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-TypeScript                 28 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-Other                      27 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+Markdown                   8 hrs 44 mins         ██████████████▓░░░░░░░░░░   58.66 %
+Python                     2 hrs 17 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
+Other                      41 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
 ```
 
 <!--END_SECTION:waka-->
