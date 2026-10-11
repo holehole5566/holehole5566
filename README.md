@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 02 October 2026 - To: 09 October 2026
+From: 03 October 2026 - To: 10 October 2026
 
-Total Time: 3 hrs 13 mins
+Total Time: 2 hrs 43 mins
 
-Other         1 hr 45 mins          ████████▓░░░░░░░░░░░░░░░░   35.32 %
+Other        1 hr 39 mins          █████████▒░░░░░░░░░░░░░░░   37.96 %
 ```
 
 <!--END_SECTION:waka-->
